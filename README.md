@@ -1,5 +1,6 @@
 ![Linux](https://img.shields.io/badge/Linux-2D333B?style=flat&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-2D333B?style=flat&logo=windows&logoColor=0078D4)
+![Docker](https://img.shields.io/badge/Docker-2D333B?style=flat&logo=docker&logoColor=2496ED)
+![Neovim](https://img.shields.io/badge/Neovim-2D333B?style=flat&logo=neovim&logoColor=57A143)
 
 ![Rust](https://img.shields.io/badge/Rust-2D333B?style=flat&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-2D333B?style=flat&logo=php&logoColor=777BB4)
@@ -17,5 +18,4 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2D333B?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-2D333B?style=flat&logo=bootstrap&logoColor=7952B3)
 
-![Docker](https://img.shields.io/badge/Docker-2D333B?style=flat&logo=docker&logoColor=2496ED)
-![Neovim](https://img.shields.io/badge/Neovim-2D333B?style=flat&logo=neovim&logoColor=57A143)
+
