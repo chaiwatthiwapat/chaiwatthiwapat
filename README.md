@@ -20,7 +20,7 @@
 
 ```text
 ERP 2y+.
-============
+==========
 - Purchases and Accounts Payable System
 - Sales and Accounts Receivable System
 - Finance and Banking System
@@ -30,4 +30,16 @@ ERP 2y+.
 - Seminar System
 - Report canvas System
 - Database Analysis
-```text
+
+About Me
+==========
+Software developer building accounting & tax systems end-to-end,
+from user requirements to production, while maintaining the core repository
+and development direction.
+
+Learning & Building
+==========
+Exploring AI, building AI chat and RAG/vector search projects,
+programming in my free time, customizing Linux,
+and creating tools for my own use.
+```
