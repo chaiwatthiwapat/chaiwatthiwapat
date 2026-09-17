@@ -18,4 +18,16 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2D333B?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-2D333B?style=flat&logo=bootstrap&logoColor=7952B3)
 
-
+```text
+ERP 2y+.
+============
+- Purchases and Accounts Payable System
+- Sales and Accounts Receivable System
+- Finance and Banking System
+- Inventory System
+- Fixed assets System
+- Accounting System
+- Seminar System
+- Report canvas System
+- Database Analysis
+```text
