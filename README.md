@@ -33,7 +33,7 @@ ERP 2y+.
 
 About Me
 ==========
-Software developer building accounting & tax systems end-to-end,
+Thai software developer, born in 2002, building accounting & tax systems end-to-end,
 from user requirements to production, while maintaining the core repository
 and development direction.
 
