@@ -19,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-2D333B?style=flat&logo=bootstrap&logoColor=7952B3)
 
 ```text
-ERP 2y+.
+ERP 3y+
 ==========
 - Purchases and Accounts Payable System
 - Sales and Accounts Receivable System
@@ -33,7 +33,7 @@ ERP 2y+.
 
 About Me
 ==========
-Thai software developer, born in 2002, building accounting & tax systems end-to-end,
+Thai software developer with 5y+ of experience, born in 2002, building accounting & tax systems end-to-end,
 from user requirements to production, while maintaining the core repository
 and development direction.
 
