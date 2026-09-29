@@ -18,7 +18,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2D333B?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-2D333B?style=flat&logo=bootstrap&logoColor=7952B3)
 
-Second <a href="https://github.com/chaiwatthiwapat" target="_blank">Repository</a>
+Second <a href="https://github.com/z99natza" target="_blank">Repository</a>
 
 ```text
 ERP 2y+
