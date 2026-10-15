@@ -10,7 +10,7 @@ Second <a href="https://github.com/z99natza" target="_blank">Repository</a>
 
 ```text
 About Me
-Thai software developer with 5y+ of experience, born in 2002.
+Thai software developer with 5y+ of experience, born in 2002 Male.
 
 Learning & Building
 AI, RAG/vector, customizing Linux, creating tools
